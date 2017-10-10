@@ -1,6 +1,8 @@
 # Ikigai
 >>> print "Revival"
 
+気風 - Kippu / 기풍 (Ethos)
+
 A Reason for Breathing::
 
 ⚖
